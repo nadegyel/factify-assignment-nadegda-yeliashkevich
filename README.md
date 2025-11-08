@@ -67,7 +67,7 @@ When building this project, I focused on clarity, maintainability, and DRY princ
   In a testing setup, I prefer using stable attributes like data-testid or accessibility-based selectors (getByRole, getByLabel) for long-term reliability.
 
 - Cart Assumption:
-  Tests assume that only the products explicitly added during the test appear in the cart (no pre-existing items).
+  Test assumes that only the products explicitly added during the test appear in the cart (no pre-existing items).
 
 - Hardcoded User Data:
   The billing details used during checkout are currently hardcoded for simplicity and time efficiency.
