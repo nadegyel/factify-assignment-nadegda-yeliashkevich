@@ -1,6 +1,6 @@
 # Factify E2E Tests Assignment
 
-When building this project, I focused on clarity, maintainability, and DRY principles. The https://atid.store/ payment functionality isn't working as expected, and therefore I had to skip the post payment checks, as well as Scenario number 2, due to lack of succesful payment choice. Scenario number 3 is skipped as well as there's no stock characteristics in the product.
+When building this project, I focused on clarity, maintainability, and DRY principles. The https://atid.store/ payment functionality isn't working as expected, and therefore I had to skip the post payment checks in Scenario number 1, as well as Scenario number 2, due to lack of succesful payment choice. Scenario number 3 is skipped as well as there's no stock characteristics in the product.
 
 ---
 
